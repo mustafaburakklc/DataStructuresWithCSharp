@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Giris", "Giris\Giris.csproj", "{B8D66BD0-C23D-48EA-AC5E-119E319B854A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BTKAkademi", "..\BTKAkademi\BTKAkademi\BTKAkademi.csproj", "{626B6EA9-710D-4C38-9481-0F3BFE27247B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B8D66BD0-C23D-48EA-AC5E-119E319B854A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8D66BD0-C23D-48EA-AC5E-119E319B854A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8D66BD0-C23D-48EA-AC5E-119E319B854A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8D66BD0-C23D-48EA-AC5E-119E319B854A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{626B6EA9-710D-4C38-9481-0F3BFE27247B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626B6EA9-710D-4C38-9481-0F3BFE27247B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626B6EA9-710D-4C38-9481-0F3BFE27247B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626B6EA9-710D-4C38-9481-0F3BFE27247B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BBE1889-DCA7-4F93-B0DA-D12AEB56F2F3}
+	EndGlobalSection
+EndGlobal

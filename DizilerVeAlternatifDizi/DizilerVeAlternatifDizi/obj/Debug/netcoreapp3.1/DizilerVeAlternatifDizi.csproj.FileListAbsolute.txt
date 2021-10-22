@@ -1,0 +1,14 @@
+C:\Users\90551\source\repos\DizilerVeAlternatifDizi\DizilerVeAlternatifDizi\bin\Debug\netcoreapp3.1\DizilerVeAlternatifDizi.exe
+C:\Users\90551\source\repos\DizilerVeAlternatifDizi\DizilerVeAlternatifDizi\bin\Debug\netcoreapp3.1\DizilerVeAlternatifDizi.deps.json
+C:\Users\90551\source\repos\DizilerVeAlternatifDizi\DizilerVeAlternatifDizi\bin\Debug\netcoreapp3.1\DizilerVeAlternatifDizi.runtimeconfig.json
+C:\Users\90551\source\repos\DizilerVeAlternatifDizi\DizilerVeAlternatifDizi\bin\Debug\netcoreapp3.1\DizilerVeAlternatifDizi.runtimeconfig.dev.json
+C:\Users\90551\source\repos\DizilerVeAlternatifDizi\DizilerVeAlternatifDizi\bin\Debug\netcoreapp3.1\DizilerVeAlternatifDizi.dll
+C:\Users\90551\source\repos\DizilerVeAlternatifDizi\DizilerVeAlternatifDizi\bin\Debug\netcoreapp3.1\DizilerVeAlternatifDizi.pdb
+C:\Users\90551\source\repos\DizilerVeAlternatifDizi\DizilerVeAlternatifDizi\obj\Debug\netcoreapp3.1\DizilerVeAlternatifDizi.csproj.AssemblyReference.cache
+C:\Users\90551\source\repos\DizilerVeAlternatifDizi\DizilerVeAlternatifDizi\obj\Debug\netcoreapp3.1\DizilerVeAlternatifDizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90551\source\repos\DizilerVeAlternatifDizi\DizilerVeAlternatifDizi\obj\Debug\netcoreapp3.1\DizilerVeAlternatifDizi.AssemblyInfoInputs.cache
+C:\Users\90551\source\repos\DizilerVeAlternatifDizi\DizilerVeAlternatifDizi\obj\Debug\netcoreapp3.1\DizilerVeAlternatifDizi.AssemblyInfo.cs
+C:\Users\90551\source\repos\DizilerVeAlternatifDizi\DizilerVeAlternatifDizi\obj\Debug\netcoreapp3.1\DizilerVeAlternatifDizi.csproj.CoreCompileInputs.cache
+C:\Users\90551\source\repos\DizilerVeAlternatifDizi\DizilerVeAlternatifDizi\obj\Debug\netcoreapp3.1\DizilerVeAlternatifDizi.dll
+C:\Users\90551\source\repos\DizilerVeAlternatifDizi\DizilerVeAlternatifDizi\obj\Debug\netcoreapp3.1\DizilerVeAlternatifDizi.pdb
+C:\Users\90551\source\repos\DizilerVeAlternatifDizi\DizilerVeAlternatifDizi\obj\Debug\netcoreapp3.1\DizilerVeAlternatifDizi.genruntimeconfig.cache

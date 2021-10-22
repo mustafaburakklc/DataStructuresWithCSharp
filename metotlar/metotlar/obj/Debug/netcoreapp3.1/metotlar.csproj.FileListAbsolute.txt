@@ -1,0 +1,14 @@
+C:\Users\90551\source\repos\metotlar\metotlar\bin\Debug\netcoreapp3.1\metotlar.exe
+C:\Users\90551\source\repos\metotlar\metotlar\bin\Debug\netcoreapp3.1\metotlar.deps.json
+C:\Users\90551\source\repos\metotlar\metotlar\bin\Debug\netcoreapp3.1\metotlar.runtimeconfig.json
+C:\Users\90551\source\repos\metotlar\metotlar\bin\Debug\netcoreapp3.1\metotlar.runtimeconfig.dev.json
+C:\Users\90551\source\repos\metotlar\metotlar\bin\Debug\netcoreapp3.1\metotlar.dll
+C:\Users\90551\source\repos\metotlar\metotlar\bin\Debug\netcoreapp3.1\metotlar.pdb
+C:\Users\90551\source\repos\metotlar\metotlar\obj\Debug\netcoreapp3.1\metotlar.csproj.AssemblyReference.cache
+C:\Users\90551\source\repos\metotlar\metotlar\obj\Debug\netcoreapp3.1\metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90551\source\repos\metotlar\metotlar\obj\Debug\netcoreapp3.1\metotlar.AssemblyInfoInputs.cache
+C:\Users\90551\source\repos\metotlar\metotlar\obj\Debug\netcoreapp3.1\metotlar.AssemblyInfo.cs
+C:\Users\90551\source\repos\metotlar\metotlar\obj\Debug\netcoreapp3.1\metotlar.csproj.CoreCompileInputs.cache
+C:\Users\90551\source\repos\metotlar\metotlar\obj\Debug\netcoreapp3.1\metotlar.dll
+C:\Users\90551\source\repos\metotlar\metotlar\obj\Debug\netcoreapp3.1\metotlar.pdb
+C:\Users\90551\source\repos\metotlar\metotlar\obj\Debug\netcoreapp3.1\metotlar.genruntimeconfig.cache

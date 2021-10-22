@@ -1,0 +1,14 @@
+C:\Users\90551\source\repos\BTKAkademi\BTKAkademi\bin\Debug\netcoreapp3.1\BTKAkademi.exe
+C:\Users\90551\source\repos\BTKAkademi\BTKAkademi\bin\Debug\netcoreapp3.1\BTKAkademi.deps.json
+C:\Users\90551\source\repos\BTKAkademi\BTKAkademi\bin\Debug\netcoreapp3.1\BTKAkademi.runtimeconfig.json
+C:\Users\90551\source\repos\BTKAkademi\BTKAkademi\bin\Debug\netcoreapp3.1\BTKAkademi.runtimeconfig.dev.json
+C:\Users\90551\source\repos\BTKAkademi\BTKAkademi\bin\Debug\netcoreapp3.1\BTKAkademi.dll
+C:\Users\90551\source\repos\BTKAkademi\BTKAkademi\bin\Debug\netcoreapp3.1\BTKAkademi.pdb
+C:\Users\90551\source\repos\BTKAkademi\BTKAkademi\obj\Debug\netcoreapp3.1\BTKAkademi.csproj.AssemblyReference.cache
+C:\Users\90551\source\repos\BTKAkademi\BTKAkademi\obj\Debug\netcoreapp3.1\BTKAkademi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90551\source\repos\BTKAkademi\BTKAkademi\obj\Debug\netcoreapp3.1\BTKAkademi.AssemblyInfoInputs.cache
+C:\Users\90551\source\repos\BTKAkademi\BTKAkademi\obj\Debug\netcoreapp3.1\BTKAkademi.AssemblyInfo.cs
+C:\Users\90551\source\repos\BTKAkademi\BTKAkademi\obj\Debug\netcoreapp3.1\BTKAkademi.csproj.CoreCompileInputs.cache
+C:\Users\90551\source\repos\BTKAkademi\BTKAkademi\obj\Debug\netcoreapp3.1\BTKAkademi.dll
+C:\Users\90551\source\repos\BTKAkademi\BTKAkademi\obj\Debug\netcoreapp3.1\BTKAkademi.pdb
+C:\Users\90551\source\repos\BTKAkademi\BTKAkademi\obj\Debug\netcoreapp3.1\BTKAkademi.genruntimeconfig.cache

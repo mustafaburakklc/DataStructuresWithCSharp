@@ -1,0 +1,13 @@
+C:\Users\90551\source\repos\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.exe
+C:\Users\90551\source\repos\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.deps.json
+C:\Users\90551\source\repos\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.runtimeconfig.json
+C:\Users\90551\source\repos\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.runtimeconfig.dev.json
+C:\Users\90551\source\repos\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.dll
+C:\Users\90551\source\repos\Operatorler\Operatorler\bin\Debug\netcoreapp3.1\Operatorler.pdb
+C:\Users\90551\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90551\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.AssemblyInfoInputs.cache
+C:\Users\90551\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.AssemblyInfo.cs
+C:\Users\90551\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\90551\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.dll
+C:\Users\90551\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.pdb
+C:\Users\90551\source\repos\Operatorler\Operatorler\obj\Debug\netcoreapp3.1\Operatorler.genruntimeconfig.cache

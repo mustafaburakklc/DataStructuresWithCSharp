@@ -1,0 +1,14 @@
+C:\Users\90551\source\repos\diziler\diziler\bin\Debug\netcoreapp3.1\diziler.exe
+C:\Users\90551\source\repos\diziler\diziler\bin\Debug\netcoreapp3.1\diziler.deps.json
+C:\Users\90551\source\repos\diziler\diziler\bin\Debug\netcoreapp3.1\diziler.runtimeconfig.json
+C:\Users\90551\source\repos\diziler\diziler\bin\Debug\netcoreapp3.1\diziler.runtimeconfig.dev.json
+C:\Users\90551\source\repos\diziler\diziler\bin\Debug\netcoreapp3.1\diziler.dll
+C:\Users\90551\source\repos\diziler\diziler\bin\Debug\netcoreapp3.1\diziler.pdb
+C:\Users\90551\source\repos\diziler\diziler\obj\Debug\netcoreapp3.1\diziler.csproj.AssemblyReference.cache
+C:\Users\90551\source\repos\diziler\diziler\obj\Debug\netcoreapp3.1\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90551\source\repos\diziler\diziler\obj\Debug\netcoreapp3.1\diziler.AssemblyInfoInputs.cache
+C:\Users\90551\source\repos\diziler\diziler\obj\Debug\netcoreapp3.1\diziler.AssemblyInfo.cs
+C:\Users\90551\source\repos\diziler\diziler\obj\Debug\netcoreapp3.1\diziler.csproj.CoreCompileInputs.cache
+C:\Users\90551\source\repos\diziler\diziler\obj\Debug\netcoreapp3.1\diziler.dll
+C:\Users\90551\source\repos\diziler\diziler\obj\Debug\netcoreapp3.1\diziler.pdb
+C:\Users\90551\source\repos\diziler\diziler\obj\Debug\netcoreapp3.1\diziler.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\90551\source\repos\cokBoyutluDiziler\cokBoyutluDiziler\bin\Debug\netcoreapp3.1\cokBoyutluDiziler.exe
+C:\Users\90551\source\repos\cokBoyutluDiziler\cokBoyutluDiziler\bin\Debug\netcoreapp3.1\cokBoyutluDiziler.deps.json
+C:\Users\90551\source\repos\cokBoyutluDiziler\cokBoyutluDiziler\bin\Debug\netcoreapp3.1\cokBoyutluDiziler.runtimeconfig.json
+C:\Users\90551\source\repos\cokBoyutluDiziler\cokBoyutluDiziler\bin\Debug\netcoreapp3.1\cokBoyutluDiziler.runtimeconfig.dev.json
+C:\Users\90551\source\repos\cokBoyutluDiziler\cokBoyutluDiziler\bin\Debug\netcoreapp3.1\cokBoyutluDiziler.dll
+C:\Users\90551\source\repos\cokBoyutluDiziler\cokBoyutluDiziler\bin\Debug\netcoreapp3.1\cokBoyutluDiziler.pdb
+C:\Users\90551\source\repos\cokBoyutluDiziler\cokBoyutluDiziler\obj\Debug\netcoreapp3.1\cokBoyutluDiziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90551\source\repos\cokBoyutluDiziler\cokBoyutluDiziler\obj\Debug\netcoreapp3.1\cokBoyutluDiziler.AssemblyInfoInputs.cache
+C:\Users\90551\source\repos\cokBoyutluDiziler\cokBoyutluDiziler\obj\Debug\netcoreapp3.1\cokBoyutluDiziler.AssemblyInfo.cs
+C:\Users\90551\source\repos\cokBoyutluDiziler\cokBoyutluDiziler\obj\Debug\netcoreapp3.1\cokBoyutluDiziler.csproj.CoreCompileInputs.cache
+C:\Users\90551\source\repos\cokBoyutluDiziler\cokBoyutluDiziler\obj\Debug\netcoreapp3.1\cokBoyutluDiziler.dll
+C:\Users\90551\source\repos\cokBoyutluDiziler\cokBoyutluDiziler\obj\Debug\netcoreapp3.1\cokBoyutluDiziler.pdb
+C:\Users\90551\source\repos\cokBoyutluDiziler\cokBoyutluDiziler\obj\Debug\netcoreapp3.1\cokBoyutluDiziler.genruntimeconfig.cache

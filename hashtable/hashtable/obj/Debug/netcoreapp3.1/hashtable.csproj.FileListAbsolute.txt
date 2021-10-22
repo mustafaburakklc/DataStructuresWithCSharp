@@ -1,0 +1,13 @@
+C:\Users\90551\source\repos\hashtable\hashtable\bin\Debug\netcoreapp3.1\hashtable.exe
+C:\Users\90551\source\repos\hashtable\hashtable\bin\Debug\netcoreapp3.1\hashtable.deps.json
+C:\Users\90551\source\repos\hashtable\hashtable\bin\Debug\netcoreapp3.1\hashtable.runtimeconfig.json
+C:\Users\90551\source\repos\hashtable\hashtable\bin\Debug\netcoreapp3.1\hashtable.runtimeconfig.dev.json
+C:\Users\90551\source\repos\hashtable\hashtable\bin\Debug\netcoreapp3.1\hashtable.dll
+C:\Users\90551\source\repos\hashtable\hashtable\bin\Debug\netcoreapp3.1\hashtable.pdb
+C:\Users\90551\source\repos\hashtable\hashtable\obj\Debug\netcoreapp3.1\hashtable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90551\source\repos\hashtable\hashtable\obj\Debug\netcoreapp3.1\hashtable.AssemblyInfoInputs.cache
+C:\Users\90551\source\repos\hashtable\hashtable\obj\Debug\netcoreapp3.1\hashtable.AssemblyInfo.cs
+C:\Users\90551\source\repos\hashtable\hashtable\obj\Debug\netcoreapp3.1\hashtable.csproj.CoreCompileInputs.cache
+C:\Users\90551\source\repos\hashtable\hashtable\obj\Debug\netcoreapp3.1\hashtable.dll
+C:\Users\90551\source\repos\hashtable\hashtable\obj\Debug\netcoreapp3.1\hashtable.pdb
+C:\Users\90551\source\repos\hashtable\hashtable\obj\Debug\netcoreapp3.1\hashtable.genruntimeconfig.cache

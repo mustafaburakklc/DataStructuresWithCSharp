@@ -1,0 +1,14 @@
+C:\Users\90551\source\repos\ifElseYapisi\ifElseYapisi\bin\Debug\netcoreapp3.1\ifElseYapisi.exe
+C:\Users\90551\source\repos\ifElseYapisi\ifElseYapisi\bin\Debug\netcoreapp3.1\ifElseYapisi.deps.json
+C:\Users\90551\source\repos\ifElseYapisi\ifElseYapisi\bin\Debug\netcoreapp3.1\ifElseYapisi.runtimeconfig.json
+C:\Users\90551\source\repos\ifElseYapisi\ifElseYapisi\bin\Debug\netcoreapp3.1\ifElseYapisi.runtimeconfig.dev.json
+C:\Users\90551\source\repos\ifElseYapisi\ifElseYapisi\bin\Debug\netcoreapp3.1\ifElseYapisi.dll
+C:\Users\90551\source\repos\ifElseYapisi\ifElseYapisi\bin\Debug\netcoreapp3.1\ifElseYapisi.pdb
+C:\Users\90551\source\repos\ifElseYapisi\ifElseYapisi\obj\Debug\netcoreapp3.1\ifElseYapisi.csproj.AssemblyReference.cache
+C:\Users\90551\source\repos\ifElseYapisi\ifElseYapisi\obj\Debug\netcoreapp3.1\ifElseYapisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90551\source\repos\ifElseYapisi\ifElseYapisi\obj\Debug\netcoreapp3.1\ifElseYapisi.AssemblyInfoInputs.cache
+C:\Users\90551\source\repos\ifElseYapisi\ifElseYapisi\obj\Debug\netcoreapp3.1\ifElseYapisi.AssemblyInfo.cs
+C:\Users\90551\source\repos\ifElseYapisi\ifElseYapisi\obj\Debug\netcoreapp3.1\ifElseYapisi.csproj.CoreCompileInputs.cache
+C:\Users\90551\source\repos\ifElseYapisi\ifElseYapisi\obj\Debug\netcoreapp3.1\ifElseYapisi.dll
+C:\Users\90551\source\repos\ifElseYapisi\ifElseYapisi\obj\Debug\netcoreapp3.1\ifElseYapisi.pdb
+C:\Users\90551\source\repos\ifElseYapisi\ifElseYapisi\obj\Debug\netcoreapp3.1\ifElseYapisi.genruntimeconfig.cache

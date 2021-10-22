@@ -1,0 +1,13 @@
+C:\Users\90551\source\repos\degerVeReferansTipler\degerVeReferansTipler\bin\Debug\netcoreapp3.1\degerVeReferansTipler.exe
+C:\Users\90551\source\repos\degerVeReferansTipler\degerVeReferansTipler\bin\Debug\netcoreapp3.1\degerVeReferansTipler.deps.json
+C:\Users\90551\source\repos\degerVeReferansTipler\degerVeReferansTipler\bin\Debug\netcoreapp3.1\degerVeReferansTipler.runtimeconfig.json
+C:\Users\90551\source\repos\degerVeReferansTipler\degerVeReferansTipler\bin\Debug\netcoreapp3.1\degerVeReferansTipler.runtimeconfig.dev.json
+C:\Users\90551\source\repos\degerVeReferansTipler\degerVeReferansTipler\bin\Debug\netcoreapp3.1\degerVeReferansTipler.dll
+C:\Users\90551\source\repos\degerVeReferansTipler\degerVeReferansTipler\bin\Debug\netcoreapp3.1\degerVeReferansTipler.pdb
+C:\Users\90551\source\repos\degerVeReferansTipler\degerVeReferansTipler\obj\Debug\netcoreapp3.1\degerVeReferansTipler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90551\source\repos\degerVeReferansTipler\degerVeReferansTipler\obj\Debug\netcoreapp3.1\degerVeReferansTipler.AssemblyInfoInputs.cache
+C:\Users\90551\source\repos\degerVeReferansTipler\degerVeReferansTipler\obj\Debug\netcoreapp3.1\degerVeReferansTipler.AssemblyInfo.cs
+C:\Users\90551\source\repos\degerVeReferansTipler\degerVeReferansTipler\obj\Debug\netcoreapp3.1\degerVeReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\90551\source\repos\degerVeReferansTipler\degerVeReferansTipler\obj\Debug\netcoreapp3.1\degerVeReferansTipler.dll
+C:\Users\90551\source\repos\degerVeReferansTipler\degerVeReferansTipler\obj\Debug\netcoreapp3.1\degerVeReferansTipler.pdb
+C:\Users\90551\source\repos\degerVeReferansTipler\degerVeReferansTipler\obj\Debug\netcoreapp3.1\degerVeReferansTipler.genruntimeconfig.cache

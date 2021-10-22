@@ -1,0 +1,13 @@
+C:\Users\90551\source\repos\struct2\struct2\bin\Debug\netcoreapp3.1\struct2.exe
+C:\Users\90551\source\repos\struct2\struct2\bin\Debug\netcoreapp3.1\struct2.deps.json
+C:\Users\90551\source\repos\struct2\struct2\bin\Debug\netcoreapp3.1\struct2.runtimeconfig.json
+C:\Users\90551\source\repos\struct2\struct2\bin\Debug\netcoreapp3.1\struct2.runtimeconfig.dev.json
+C:\Users\90551\source\repos\struct2\struct2\bin\Debug\netcoreapp3.1\struct2.dll
+C:\Users\90551\source\repos\struct2\struct2\bin\Debug\netcoreapp3.1\struct2.pdb
+C:\Users\90551\source\repos\struct2\struct2\obj\Debug\netcoreapp3.1\struct2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90551\source\repos\struct2\struct2\obj\Debug\netcoreapp3.1\struct2.AssemblyInfoInputs.cache
+C:\Users\90551\source\repos\struct2\struct2\obj\Debug\netcoreapp3.1\struct2.AssemblyInfo.cs
+C:\Users\90551\source\repos\struct2\struct2\obj\Debug\netcoreapp3.1\struct2.csproj.CoreCompileInputs.cache
+C:\Users\90551\source\repos\struct2\struct2\obj\Debug\netcoreapp3.1\struct2.dll
+C:\Users\90551\source\repos\struct2\struct2\obj\Debug\netcoreapp3.1\struct2.pdb
+C:\Users\90551\source\repos\struct2\struct2\obj\Debug\netcoreapp3.1\struct2.genruntimeconfig.cache

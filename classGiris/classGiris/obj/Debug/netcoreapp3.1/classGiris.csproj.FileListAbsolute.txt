@@ -1,0 +1,14 @@
+C:\Users\90551\source\repos\classGiris\classGiris\bin\Debug\netcoreapp3.1\classGiris.exe
+C:\Users\90551\source\repos\classGiris\classGiris\bin\Debug\netcoreapp3.1\classGiris.deps.json
+C:\Users\90551\source\repos\classGiris\classGiris\bin\Debug\netcoreapp3.1\classGiris.runtimeconfig.json
+C:\Users\90551\source\repos\classGiris\classGiris\bin\Debug\netcoreapp3.1\classGiris.runtimeconfig.dev.json
+C:\Users\90551\source\repos\classGiris\classGiris\bin\Debug\netcoreapp3.1\classGiris.dll
+C:\Users\90551\source\repos\classGiris\classGiris\bin\Debug\netcoreapp3.1\classGiris.pdb
+C:\Users\90551\source\repos\classGiris\classGiris\obj\Debug\netcoreapp3.1\classGiris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90551\source\repos\classGiris\classGiris\obj\Debug\netcoreapp3.1\classGiris.AssemblyInfoInputs.cache
+C:\Users\90551\source\repos\classGiris\classGiris\obj\Debug\netcoreapp3.1\classGiris.AssemblyInfo.cs
+C:\Users\90551\source\repos\classGiris\classGiris\obj\Debug\netcoreapp3.1\classGiris.csproj.CoreCompileInputs.cache
+C:\Users\90551\source\repos\classGiris\classGiris\obj\Debug\netcoreapp3.1\classGiris.dll
+C:\Users\90551\source\repos\classGiris\classGiris\obj\Debug\netcoreapp3.1\classGiris.pdb
+C:\Users\90551\source\repos\classGiris\classGiris\obj\Debug\netcoreapp3.1\classGiris.genruntimeconfig.cache
+C:\Users\90551\source\repos\classGiris\classGiris\obj\Debug\netcoreapp3.1\classGiris.csproj.AssemblyReference.cache

@@ -1,0 +1,14 @@
+C:\Users\90551\source\repos\HashSetGeneric\HashSetGeneric\bin\Debug\netcoreapp3.1\HashSetGeneric.exe
+C:\Users\90551\source\repos\HashSetGeneric\HashSetGeneric\bin\Debug\netcoreapp3.1\HashSetGeneric.deps.json
+C:\Users\90551\source\repos\HashSetGeneric\HashSetGeneric\bin\Debug\netcoreapp3.1\HashSetGeneric.runtimeconfig.json
+C:\Users\90551\source\repos\HashSetGeneric\HashSetGeneric\bin\Debug\netcoreapp3.1\HashSetGeneric.runtimeconfig.dev.json
+C:\Users\90551\source\repos\HashSetGeneric\HashSetGeneric\bin\Debug\netcoreapp3.1\HashSetGeneric.dll
+C:\Users\90551\source\repos\HashSetGeneric\HashSetGeneric\bin\Debug\netcoreapp3.1\HashSetGeneric.pdb
+C:\Users\90551\source\repos\HashSetGeneric\HashSetGeneric\obj\Debug\netcoreapp3.1\HashSetGeneric.csproj.AssemblyReference.cache
+C:\Users\90551\source\repos\HashSetGeneric\HashSetGeneric\obj\Debug\netcoreapp3.1\HashSetGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90551\source\repos\HashSetGeneric\HashSetGeneric\obj\Debug\netcoreapp3.1\HashSetGeneric.AssemblyInfoInputs.cache
+C:\Users\90551\source\repos\HashSetGeneric\HashSetGeneric\obj\Debug\netcoreapp3.1\HashSetGeneric.AssemblyInfo.cs
+C:\Users\90551\source\repos\HashSetGeneric\HashSetGeneric\obj\Debug\netcoreapp3.1\HashSetGeneric.csproj.CoreCompileInputs.cache
+C:\Users\90551\source\repos\HashSetGeneric\HashSetGeneric\obj\Debug\netcoreapp3.1\HashSetGeneric.dll
+C:\Users\90551\source\repos\HashSetGeneric\HashSetGeneric\obj\Debug\netcoreapp3.1\HashSetGeneric.pdb
+C:\Users\90551\source\repos\HashSetGeneric\HashSetGeneric\obj\Debug\netcoreapp3.1\HashSetGeneric.genruntimeconfig.cache

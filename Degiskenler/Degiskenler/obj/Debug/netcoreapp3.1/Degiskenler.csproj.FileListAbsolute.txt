@@ -1,0 +1,14 @@
+C:\Users\90551\source\repos\Degiskenler\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.csproj.AssemblyReference.cache
+C:\Users\90551\source\repos\Degiskenler\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90551\source\repos\Degiskenler\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.AssemblyInfoInputs.cache
+C:\Users\90551\source\repos\Degiskenler\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.AssemblyInfo.cs
+C:\Users\90551\source\repos\Degiskenler\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.csproj.CoreCompileInputs.cache
+C:\Users\90551\source\repos\Degiskenler\Degiskenler\bin\Debug\netcoreapp3.1\Degiskenler.exe
+C:\Users\90551\source\repos\Degiskenler\Degiskenler\bin\Debug\netcoreapp3.1\Degiskenler.deps.json
+C:\Users\90551\source\repos\Degiskenler\Degiskenler\bin\Debug\netcoreapp3.1\Degiskenler.runtimeconfig.json
+C:\Users\90551\source\repos\Degiskenler\Degiskenler\bin\Debug\netcoreapp3.1\Degiskenler.runtimeconfig.dev.json
+C:\Users\90551\source\repos\Degiskenler\Degiskenler\bin\Debug\netcoreapp3.1\Degiskenler.dll
+C:\Users\90551\source\repos\Degiskenler\Degiskenler\bin\Debug\netcoreapp3.1\Degiskenler.pdb
+C:\Users\90551\source\repos\Degiskenler\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.dll
+C:\Users\90551\source\repos\Degiskenler\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.pdb
+C:\Users\90551\source\repos\Degiskenler\Degiskenler\obj\Debug\netcoreapp3.1\Degiskenler.genruntimeconfig.cache

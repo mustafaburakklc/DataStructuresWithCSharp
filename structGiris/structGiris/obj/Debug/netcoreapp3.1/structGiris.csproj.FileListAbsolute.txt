@@ -1,0 +1,13 @@
+C:\Users\90551\source\repos\structGiris\structGiris\bin\Debug\netcoreapp3.1\structGiris.exe
+C:\Users\90551\source\repos\structGiris\structGiris\bin\Debug\netcoreapp3.1\structGiris.deps.json
+C:\Users\90551\source\repos\structGiris\structGiris\bin\Debug\netcoreapp3.1\structGiris.runtimeconfig.json
+C:\Users\90551\source\repos\structGiris\structGiris\bin\Debug\netcoreapp3.1\structGiris.runtimeconfig.dev.json
+C:\Users\90551\source\repos\structGiris\structGiris\bin\Debug\netcoreapp3.1\structGiris.dll
+C:\Users\90551\source\repos\structGiris\structGiris\bin\Debug\netcoreapp3.1\structGiris.pdb
+C:\Users\90551\source\repos\structGiris\structGiris\obj\Debug\netcoreapp3.1\structGiris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90551\source\repos\structGiris\structGiris\obj\Debug\netcoreapp3.1\structGiris.AssemblyInfoInputs.cache
+C:\Users\90551\source\repos\structGiris\structGiris\obj\Debug\netcoreapp3.1\structGiris.AssemblyInfo.cs
+C:\Users\90551\source\repos\structGiris\structGiris\obj\Debug\netcoreapp3.1\structGiris.csproj.CoreCompileInputs.cache
+C:\Users\90551\source\repos\structGiris\structGiris\obj\Debug\netcoreapp3.1\structGiris.dll
+C:\Users\90551\source\repos\structGiris\structGiris\obj\Debug\netcoreapp3.1\structGiris.pdb
+C:\Users\90551\source\repos\structGiris\structGiris\obj\Debug\netcoreapp3.1\structGiris.genruntimeconfig.cache

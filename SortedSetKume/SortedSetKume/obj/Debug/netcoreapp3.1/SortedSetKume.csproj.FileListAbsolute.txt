@@ -1,0 +1,13 @@
+C:\Users\90551\source\repos\SortedSetKume\SortedSetKume\bin\Debug\netcoreapp3.1\SortedSetKume.exe
+C:\Users\90551\source\repos\SortedSetKume\SortedSetKume\bin\Debug\netcoreapp3.1\SortedSetKume.deps.json
+C:\Users\90551\source\repos\SortedSetKume\SortedSetKume\bin\Debug\netcoreapp3.1\SortedSetKume.runtimeconfig.json
+C:\Users\90551\source\repos\SortedSetKume\SortedSetKume\bin\Debug\netcoreapp3.1\SortedSetKume.runtimeconfig.dev.json
+C:\Users\90551\source\repos\SortedSetKume\SortedSetKume\bin\Debug\netcoreapp3.1\SortedSetKume.dll
+C:\Users\90551\source\repos\SortedSetKume\SortedSetKume\bin\Debug\netcoreapp3.1\SortedSetKume.pdb
+C:\Users\90551\source\repos\SortedSetKume\SortedSetKume\obj\Debug\netcoreapp3.1\SortedSetKume.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90551\source\repos\SortedSetKume\SortedSetKume\obj\Debug\netcoreapp3.1\SortedSetKume.AssemblyInfoInputs.cache
+C:\Users\90551\source\repos\SortedSetKume\SortedSetKume\obj\Debug\netcoreapp3.1\SortedSetKume.AssemblyInfo.cs
+C:\Users\90551\source\repos\SortedSetKume\SortedSetKume\obj\Debug\netcoreapp3.1\SortedSetKume.csproj.CoreCompileInputs.cache
+C:\Users\90551\source\repos\SortedSetKume\SortedSetKume\obj\Debug\netcoreapp3.1\SortedSetKume.dll
+C:\Users\90551\source\repos\SortedSetKume\SortedSetKume\obj\Debug\netcoreapp3.1\SortedSetKume.pdb
+C:\Users\90551\source\repos\SortedSetKume\SortedSetKume\obj\Debug\netcoreapp3.1\SortedSetKume.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\90551\source\repos\listGeneric\listGeneric\bin\Debug\netcoreapp3.1\listGeneric.exe
+C:\Users\90551\source\repos\listGeneric\listGeneric\bin\Debug\netcoreapp3.1\listGeneric.deps.json
+C:\Users\90551\source\repos\listGeneric\listGeneric\bin\Debug\netcoreapp3.1\listGeneric.runtimeconfig.json
+C:\Users\90551\source\repos\listGeneric\listGeneric\bin\Debug\netcoreapp3.1\listGeneric.runtimeconfig.dev.json
+C:\Users\90551\source\repos\listGeneric\listGeneric\bin\Debug\netcoreapp3.1\listGeneric.dll
+C:\Users\90551\source\repos\listGeneric\listGeneric\bin\Debug\netcoreapp3.1\listGeneric.pdb
+C:\Users\90551\source\repos\listGeneric\listGeneric\obj\Debug\netcoreapp3.1\listGeneric.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90551\source\repos\listGeneric\listGeneric\obj\Debug\netcoreapp3.1\listGeneric.AssemblyInfoInputs.cache
+C:\Users\90551\source\repos\listGeneric\listGeneric\obj\Debug\netcoreapp3.1\listGeneric.AssemblyInfo.cs
+C:\Users\90551\source\repos\listGeneric\listGeneric\obj\Debug\netcoreapp3.1\listGeneric.csproj.CoreCompileInputs.cache
+C:\Users\90551\source\repos\listGeneric\listGeneric\obj\Debug\netcoreapp3.1\listGeneric.dll
+C:\Users\90551\source\repos\listGeneric\listGeneric\obj\Debug\netcoreapp3.1\listGeneric.pdb
+C:\Users\90551\source\repos\listGeneric\listGeneric\obj\Debug\netcoreapp3.1\listGeneric.genruntimeconfig.cache

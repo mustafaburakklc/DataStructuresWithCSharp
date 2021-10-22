@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listeler", "listeler\listeler.csproj", "{04986F78-899E-4DA8-82D8-F899F1E810CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04986F78-899E-4DA8-82D8-F899F1E810CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04986F78-899E-4DA8-82D8-F899F1E810CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04986F78-899E-4DA8-82D8-F899F1E810CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04986F78-899E-4DA8-82D8-F899F1E810CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E9417DF-A905-4083-B69A-A08299D089E7}
+	EndGlobalSection
+EndGlobal

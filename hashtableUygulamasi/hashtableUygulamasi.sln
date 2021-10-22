@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hashtableUygulamasi", "hashtableUygulamasi\hashtableUygulamasi.csproj", "{3501EAC1-F9BA-4239-A278-07CBB361BACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3501EAC1-F9BA-4239-A278-07CBB361BACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3501EAC1-F9BA-4239-A278-07CBB361BACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3501EAC1-F9BA-4239-A278-07CBB361BACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3501EAC1-F9BA-4239-A278-07CBB361BACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E08970E5-F6CC-4CD5-A690-300E417439D4}
+	EndGlobalSection
+EndGlobal

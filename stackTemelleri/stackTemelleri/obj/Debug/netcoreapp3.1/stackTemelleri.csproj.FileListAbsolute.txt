@@ -1,0 +1,14 @@
+C:\Users\90551\source\repos\stackTemelleri\stackTemelleri\bin\Debug\netcoreapp3.1\stackTemelleri.exe
+C:\Users\90551\source\repos\stackTemelleri\stackTemelleri\bin\Debug\netcoreapp3.1\stackTemelleri.deps.json
+C:\Users\90551\source\repos\stackTemelleri\stackTemelleri\bin\Debug\netcoreapp3.1\stackTemelleri.runtimeconfig.json
+C:\Users\90551\source\repos\stackTemelleri\stackTemelleri\bin\Debug\netcoreapp3.1\stackTemelleri.runtimeconfig.dev.json
+C:\Users\90551\source\repos\stackTemelleri\stackTemelleri\bin\Debug\netcoreapp3.1\stackTemelleri.dll
+C:\Users\90551\source\repos\stackTemelleri\stackTemelleri\bin\Debug\netcoreapp3.1\stackTemelleri.pdb
+C:\Users\90551\source\repos\stackTemelleri\stackTemelleri\obj\Debug\netcoreapp3.1\stackTemelleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90551\source\repos\stackTemelleri\stackTemelleri\obj\Debug\netcoreapp3.1\stackTemelleri.AssemblyInfoInputs.cache
+C:\Users\90551\source\repos\stackTemelleri\stackTemelleri\obj\Debug\netcoreapp3.1\stackTemelleri.AssemblyInfo.cs
+C:\Users\90551\source\repos\stackTemelleri\stackTemelleri\obj\Debug\netcoreapp3.1\stackTemelleri.csproj.CoreCompileInputs.cache
+C:\Users\90551\source\repos\stackTemelleri\stackTemelleri\obj\Debug\netcoreapp3.1\stackTemelleri.dll
+C:\Users\90551\source\repos\stackTemelleri\stackTemelleri\obj\Debug\netcoreapp3.1\stackTemelleri.pdb
+C:\Users\90551\source\repos\stackTemelleri\stackTemelleri\obj\Debug\netcoreapp3.1\stackTemelleri.genruntimeconfig.cache
+C:\Users\90551\source\repos\stackTemelleri\stackTemelleri\obj\Debug\netcoreapp3.1\stackTemelleri.csproj.AssemblyReference.cache

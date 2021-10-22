@@ -1,0 +1,14 @@
+C:\Users\90551\source\repos\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+C:\Users\90551\source\repos\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+C:\Users\90551\source\repos\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+C:\Users\90551\source\repos\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+C:\Users\90551\source\repos\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\90551\source\repos\Dictionary\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\90551\source\repos\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.AssemblyReference.cache
+C:\Users\90551\source\repos\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90551\source\repos\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\90551\source\repos\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+C:\Users\90551\source\repos\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\90551\source\repos\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\90551\source\repos\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\90551\source\repos\Dictionary\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache

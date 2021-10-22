@@ -1,0 +1,14 @@
+C:\Users\90551\source\repos\donguler\donguler\bin\Debug\netcoreapp3.1\donguler.exe
+C:\Users\90551\source\repos\donguler\donguler\bin\Debug\netcoreapp3.1\donguler.deps.json
+C:\Users\90551\source\repos\donguler\donguler\bin\Debug\netcoreapp3.1\donguler.runtimeconfig.json
+C:\Users\90551\source\repos\donguler\donguler\bin\Debug\netcoreapp3.1\donguler.runtimeconfig.dev.json
+C:\Users\90551\source\repos\donguler\donguler\bin\Debug\netcoreapp3.1\donguler.dll
+C:\Users\90551\source\repos\donguler\donguler\bin\Debug\netcoreapp3.1\donguler.pdb
+C:\Users\90551\source\repos\donguler\donguler\obj\Debug\netcoreapp3.1\donguler.csproj.AssemblyReference.cache
+C:\Users\90551\source\repos\donguler\donguler\obj\Debug\netcoreapp3.1\donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90551\source\repos\donguler\donguler\obj\Debug\netcoreapp3.1\donguler.AssemblyInfoInputs.cache
+C:\Users\90551\source\repos\donguler\donguler\obj\Debug\netcoreapp3.1\donguler.AssemblyInfo.cs
+C:\Users\90551\source\repos\donguler\donguler\obj\Debug\netcoreapp3.1\donguler.csproj.CoreCompileInputs.cache
+C:\Users\90551\source\repos\donguler\donguler\obj\Debug\netcoreapp3.1\donguler.dll
+C:\Users\90551\source\repos\donguler\donguler\obj\Debug\netcoreapp3.1\donguler.pdb
+C:\Users\90551\source\repos\donguler\donguler\obj\Debug\netcoreapp3.1\donguler.genruntimeconfig.cache
